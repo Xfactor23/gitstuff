@@ -1,1 +1,1 @@
-#waves are fun
+print("very very new)
